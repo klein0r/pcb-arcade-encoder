@@ -4,7 +4,7 @@ Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Arc
 
 ## Preview
 
-![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/preview.png)
+![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/master/preview.png)
 
 ## License
 
