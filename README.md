@@ -1,12 +1,11 @@
-# Arcade-Encoder
+# Arcade-Encoder (Sega Mega Drive)
 
-Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Arcade-Encoder)
+Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SegaControllerUSB)
 
 ## Parts
 
-- Arduino Pro Micro 5V
+- Arduino Pro Micro 5V (Solder J1)
 - [D-SUB ST 09EU](https://www.reichelt.de/d-sub-stecker-9-polig-gewinkelt-rm-2-77-d-sub-st-09eu-p6986.html)
-- [D-SUB ST 15EU](https://www.reichelt.de/d-sub-stecker-15-polig-gewinkelt-rm-9-4-d-sub-st-15eu-p6994.html)
 
 ## Preview
 
