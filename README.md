@@ -9,7 +9,7 @@ Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Ret
 
 ## Preview
 
-![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/master/preview.png)
+![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/sega-megadrive/preview.png)
 
 ## License
 
