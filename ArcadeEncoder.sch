@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Arcade-Encoder"
-Date "2020-11-05"
+Date "2020-11-19"
 Rev "0.2"
 Comp "haus-automatisierung.com"
 Comment1 ""

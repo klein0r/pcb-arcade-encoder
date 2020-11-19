@@ -305,4 +305,6 @@ Text GLabel 7400 5100 1    50   Output ~ 0
 RIGHT
 Wire Wire Line
 	7400 5100 7400 5350
+Text Notes 8750 6450 0    50   ~ 0
+Arcade Controller\nhttps://github.com/MickGyver/DaemonBite-Arcade-Encoder
 $EndSCHEMATC
