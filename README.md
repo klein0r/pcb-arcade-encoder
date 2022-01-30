@@ -2,6 +2,8 @@
 
 Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SegaControllerUSB)
 
+[Gerber-Files](https://github.com/klein0r/pcb-arcade-encoder/releases)
+
 ## Parts
 
 - Arduino Pro Micro 5V (Solder J1)
@@ -15,7 +17,7 @@ Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Ret
 
 The MIT License (MIT)
 
-Copyright (c) 2020 Matthias Kleine <info@haus-automatisierung.com>
+Copyright (c) 2022 Matthias Kleine <info@haus-automatisierung.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
