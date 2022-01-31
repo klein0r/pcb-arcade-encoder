@@ -2,7 +2,7 @@
 
 Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SegaControllerUSB)
 
-[Gerber-Files](https://github.com/klein0r/pcb-arcade-encoder/releases)
+[Gerber-Files](https://github.com/klein0r/pcb-arcade-encoder/releases?q=-sega)
 
 ## Parts
 
