@@ -14,6 +14,10 @@ Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Arc
 
 ![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/master/preview.png)
 
+![PCB Photo](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/master/previewReal.jpg)
+
+![PCB Case Photo](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/master/previewRealCase.jpg)
+
 ## License
 
 The MIT License (MIT)
