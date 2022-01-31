@@ -1,4 +1,4 @@
-# Arcade-Encoder (Sega Mega Drive)
+# Arcade-Encoder (Sony Playstation)
 
 Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB/tree/master/SegaControllerUSB)
 
@@ -6,12 +6,11 @@ Based on [DaemonBite-Arcade-Encoder](https://github.com/MickGyver/DaemonBite-Ret
 
 ## Parts
 
-- Arduino Pro Micro 5V (Solder J1)
-- [D-SUB ST 09EU](https://www.reichelt.de/d-sub-stecker-9-polig-gewinkelt-rm-2-77-d-sub-st-09eu-p6986.html)
+- Arduino Pro Micro 5V
 
 ## Preview
 
-![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/sega-megadrive/preview.png)
+![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-arcade-encoder/sony-playstation/preview.png)
 
 ## License
 
